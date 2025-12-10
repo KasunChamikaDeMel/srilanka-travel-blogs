@@ -5,7 +5,6 @@ import Hero from "@/components/section/hero";
 import Image from "next/image";
 import MaxWidthWrapper from "@/components/MaxWidthWrapper";
 import { motion } from "framer-motion";
-import { useState } from "react";
 import {
   Carousel,
   CarouselContent,
