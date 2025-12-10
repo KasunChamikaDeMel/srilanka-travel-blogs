@@ -9,7 +9,7 @@ export default function ContactUs() {
       <section className="text-center">
         <h1 className="text-5xl font-bold text-gray-800 mb-4">Contact Us</h1>
         <p className="text-lg text-gray-600">
-          We'd love to hear from you! Whether you have questions, suggestions, or just want to chat about your next adventure, feel free to reach out to us.
+          We would love to hear from you! Whether you have questions, suggestions, or just want to chat about your next adventure, feel free to reach out to us.
         </p>
       </section>
 
@@ -97,7 +97,7 @@ export default function ContactUs() {
 
       <section className="text-center">
         <p className="text-lg text-gray-600">
-          Have questions? We are here to help! Get in touch with us today, and let's make your next adventure unforgettable.
+          Have questions? We are here to help! Get in touch with us today, and let us make your next adventure unforgettable.
         </p>
       </section>
       

@@ -9,7 +9,7 @@ export default function Gallery() {
       <section className="text-center">
         <h1 className="text-5xl font-bold text-gray-800 mb-4">Explore Our Gallery</h1>
         <p className="text-lg text-gray-600">
-          Browse through stunning images capturing the beauty of the world's most incredible destinations.
+          Browse through stunning images capturing the beauty of the worlds most incredible destinations.
         </p>
       </section>
 
